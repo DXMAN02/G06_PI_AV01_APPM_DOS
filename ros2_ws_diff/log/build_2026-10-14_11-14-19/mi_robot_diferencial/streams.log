@@ -1,0 +1,56 @@
+[0.022s] Invoking command in '/home/antoine/Robotica/ros2_ws_diff/build/mi_robot_diferencial': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake /home/antoine/Robotica/ros2_ws_diff/src/mi_robot_diferencial -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/antoine/Robotica/ros2_ws_diff/install/mi_robot_diferencial
+[0.193s] -- The C compiler identification is GNU 13.3.0
+[0.381s] -- The CXX compiler identification is GNU 13.3.0
+[0.434s] -- Detecting C compiler ABI info
+[0.682s] -- Detecting C compiler ABI info - done
+[0.706s] -- Check for working C compiler: /usr/bin/cc - skipped
+[0.709s] -- Detecting C compile features
+[0.711s] -- Detecting C compile features - done
+[0.738s] -- Detecting CXX compiler ABI info
+[0.978s] -- Detecting CXX compiler ABI info - done
+[1.005s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[1.006s] -- Detecting CXX compile features
+[1.007s] -- Detecting CXX compile features - done
+[1.027s] -- Found ament_cmake: 2.5.6 (/opt/ros/jazzy/share/ament_cmake/cmake)
+[1.398s] -- Found Python3: /usr/bin/python3 (found version "3.12.3") found components: Interpreter 
+[1.561s] -- Override CMake install command with custom implementation using symlinks instead of copying resources
+[1.688s] -- Found ament_lint_auto: 0.17.5 (/opt/ros/jazzy/share/ament_lint_auto/cmake)
+[1.925s] -- Added test 'cppcheck' to perform static code analysis on C / C++ code
+[1.926s] -- Configured cppcheck include dirs: 
+[1.926s] -- Configured cppcheck exclude dirs and/or files: 
+[1.933s] -- Added test 'flake8' to check Python code syntax and style conventions
+[1.933s] -- Configured 'flake8' exclude dirs and/or files: 
+[1.941s] -- Added test 'lint_cmake' to check CMake code style
+[1.946s] -- Added test 'pep257' to check Python code against some of the docstring style conventions in PEP 257
+[1.963s] -- Added test 'uncrustify' to check C / C++ code style
+[1.963s] -- Configured uncrustify additional arguments: 
+[1.968s] -- Added test 'xmllint' to check XML markup files
+[1.973s] -- Configuring done (1.9s)
+[1.981s] -- Generating done (0.0s)
+[1.985s] -- Build files have been written to: /home/antoine/Robotica/ros2_ws_diff/build/mi_robot_diferencial
+[1.998s] Invoked command in '/home/antoine/Robotica/ros2_ws_diff/build/mi_robot_diferencial' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake /home/antoine/Robotica/ros2_ws_diff/src/mi_robot_diferencial -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/antoine/Robotica/ros2_ws_diff/install/mi_robot_diferencial
+[2.002s] Invoking command in '/home/antoine/Robotica/ros2_ws_diff/build/mi_robot_diferencial': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --build /home/antoine/Robotica/ros2_ws_diff/build/mi_robot_diferencial -- -j14 -l14
+[2.107s] Invoked command in '/home/antoine/Robotica/ros2_ws_diff/build/mi_robot_diferencial' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --build /home/antoine/Robotica/ros2_ws_diff/build/mi_robot_diferencial -- -j14 -l14
+[2.135s] Invoking command in '/home/antoine/Robotica/ros2_ws_diff/build/mi_robot_diferencial': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --install /home/antoine/Robotica/ros2_ws_diff/build/mi_robot_diferencial
+[2.157s] -- Install configuration: ""
+[2.158s] -- Execute custom install script
+[2.160s] -- Symlinking: /home/antoine/Robotica/ros2_ws_diff/install/mi_robot_diferencial/share/mi_robot_diferencial/urdf/mi_robot.urdf.xacro
+[2.186s] -- Symlinking: /home/antoine/Robotica/ros2_ws_diff/install/mi_robot_diferencial/share/mi_robot_diferencial/worlds/pista.sdf
+[2.211s] -- Symlinking: /home/antoine/Robotica/ros2_ws_diff/install/mi_robot_diferencial/share/mi_robot_diferencial/config/bridge.yaml
+[2.237s] -- Symlinking: /home/antoine/Robotica/ros2_ws_diff/install/mi_robot_diferencial/share/mi_robot_diferencial/launch/mi_robot.launch.py
+[2.267s] -- Symlinking: /home/antoine/Robotica/ros2_ws_diff/install/mi_robot_diferencial/share/ament_index/resource_index/package_run_dependencies/mi_robot_diferencial
+[2.291s] -- Symlinking: /home/antoine/Robotica/ros2_ws_diff/install/mi_robot_diferencial/share/ament_index/resource_index/parent_prefix_path/mi_robot_diferencial
+[2.315s] -- Symlinking: /home/antoine/Robotica/ros2_ws_diff/install/mi_robot_diferencial/share/mi_robot_diferencial/environment/ament_prefix_path.sh
+[2.340s] -- Symlinking: /home/antoine/Robotica/ros2_ws_diff/install/mi_robot_diferencial/share/mi_robot_diferencial/environment/ament_prefix_path.dsv
+[2.364s] -- Symlinking: /home/antoine/Robotica/ros2_ws_diff/install/mi_robot_diferencial/share/mi_robot_diferencial/environment/path.sh
+[2.389s] -- Symlinking: /home/antoine/Robotica/ros2_ws_diff/install/mi_robot_diferencial/share/mi_robot_diferencial/environment/path.dsv
+[2.413s] -- Symlinking: /home/antoine/Robotica/ros2_ws_diff/install/mi_robot_diferencial/share/mi_robot_diferencial/local_setup.bash
+[2.436s] -- Symlinking: /home/antoine/Robotica/ros2_ws_diff/install/mi_robot_diferencial/share/mi_robot_diferencial/local_setup.sh
+[2.459s] -- Symlinking: /home/antoine/Robotica/ros2_ws_diff/install/mi_robot_diferencial/share/mi_robot_diferencial/local_setup.zsh
+[2.482s] -- Symlinking: /home/antoine/Robotica/ros2_ws_diff/install/mi_robot_diferencial/share/mi_robot_diferencial/local_setup.dsv
+[2.505s] -- Symlinking: /home/antoine/Robotica/ros2_ws_diff/install/mi_robot_diferencial/share/mi_robot_diferencial/package.dsv
+[2.529s] -- Symlinking: /home/antoine/Robotica/ros2_ws_diff/install/mi_robot_diferencial/share/ament_index/resource_index/packages/mi_robot_diferencial
+[2.550s] -- Symlinking: /home/antoine/Robotica/ros2_ws_diff/install/mi_robot_diferencial/share/mi_robot_diferencial/cmake/mi_robot_diferencialConfig.cmake
+[2.570s] -- Symlinking: /home/antoine/Robotica/ros2_ws_diff/install/mi_robot_diferencial/share/mi_robot_diferencial/cmake/mi_robot_diferencialConfig-version.cmake
+[2.592s] -- Symlinking: /home/antoine/Robotica/ros2_ws_diff/install/mi_robot_diferencial/share/mi_robot_diferencial/package.xml
+[2.619s] Invoked command in '/home/antoine/Robotica/ros2_ws_diff/build/mi_robot_diferencial' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --install /home/antoine/Robotica/ros2_ws_diff/build/mi_robot_diferencial

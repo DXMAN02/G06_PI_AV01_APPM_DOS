@@ -1,0 +1,1 @@
+/home/antoine/Robotica/ros2_ws_diff/build/mi_robot_diferencial/ament_cmake_core/mi_robot_diferencialConfig-version.cmake

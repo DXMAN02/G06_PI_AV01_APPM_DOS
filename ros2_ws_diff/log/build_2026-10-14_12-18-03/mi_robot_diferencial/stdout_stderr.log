@@ -1,0 +1,23 @@
+-- Install configuration: ""
+-- Execute custom install script
+-- Up-to-date symlink: /home/antoine/Robotica/ros2_ws_diff/install/mi_robot_diferencial/share/mi_robot_diferencial/urdf/mi_robot.urdf.xacro
+-- Up-to-date symlink: /home/antoine/Robotica/ros2_ws_diff/install/mi_robot_diferencial/share/mi_robot_diferencial/worlds/pista.sdf
+-- Up-to-date symlink: /home/antoine/Robotica/ros2_ws_diff/install/mi_robot_diferencial/share/mi_robot_diferencial/config/bridge.yaml
+-- Up-to-date symlink: /home/antoine/Robotica/ros2_ws_diff/install/mi_robot_diferencial/share/mi_robot_diferencial/config/control.rviz
+-- Up-to-date symlink: /home/antoine/Robotica/ros2_ws_diff/install/mi_robot_diferencial/share/mi_robot_diferencial/launch/mi_robot.launch.py
+-- Up-to-date symlink: /home/antoine/Robotica/ros2_ws_diff/install/mi_robot_diferencial/lib/mi_robot_diferencial/comparar_odom.py
+-- Up-to-date symlink: /home/antoine/Robotica/ros2_ws_diff/install/mi_robot_diferencial/share/ament_index/resource_index/package_run_dependencies/mi_robot_diferencial
+-- Up-to-date symlink: /home/antoine/Robotica/ros2_ws_diff/install/mi_robot_diferencial/share/ament_index/resource_index/parent_prefix_path/mi_robot_diferencial
+-- Up-to-date symlink: /home/antoine/Robotica/ros2_ws_diff/install/mi_robot_diferencial/share/mi_robot_diferencial/environment/ament_prefix_path.sh
+-- Up-to-date symlink: /home/antoine/Robotica/ros2_ws_diff/install/mi_robot_diferencial/share/mi_robot_diferencial/environment/ament_prefix_path.dsv
+-- Up-to-date symlink: /home/antoine/Robotica/ros2_ws_diff/install/mi_robot_diferencial/share/mi_robot_diferencial/environment/path.sh
+-- Up-to-date symlink: /home/antoine/Robotica/ros2_ws_diff/install/mi_robot_diferencial/share/mi_robot_diferencial/environment/path.dsv
+-- Up-to-date symlink: /home/antoine/Robotica/ros2_ws_diff/install/mi_robot_diferencial/share/mi_robot_diferencial/local_setup.bash
+-- Up-to-date symlink: /home/antoine/Robotica/ros2_ws_diff/install/mi_robot_diferencial/share/mi_robot_diferencial/local_setup.sh
+-- Up-to-date symlink: /home/antoine/Robotica/ros2_ws_diff/install/mi_robot_diferencial/share/mi_robot_diferencial/local_setup.zsh
+-- Up-to-date symlink: /home/antoine/Robotica/ros2_ws_diff/install/mi_robot_diferencial/share/mi_robot_diferencial/local_setup.dsv
+-- Symlinking: /home/antoine/Robotica/ros2_ws_diff/install/mi_robot_diferencial/share/mi_robot_diferencial/package.dsv
+-- Up-to-date symlink: /home/antoine/Robotica/ros2_ws_diff/install/mi_robot_diferencial/share/ament_index/resource_index/packages/mi_robot_diferencial
+-- Up-to-date symlink: /home/antoine/Robotica/ros2_ws_diff/install/mi_robot_diferencial/share/mi_robot_diferencial/cmake/mi_robot_diferencialConfig.cmake
+-- Up-to-date symlink: /home/antoine/Robotica/ros2_ws_diff/install/mi_robot_diferencial/share/mi_robot_diferencial/cmake/mi_robot_diferencialConfig-version.cmake
+-- Up-to-date symlink: /home/antoine/Robotica/ros2_ws_diff/install/mi_robot_diferencial/share/mi_robot_diferencial/package.xml

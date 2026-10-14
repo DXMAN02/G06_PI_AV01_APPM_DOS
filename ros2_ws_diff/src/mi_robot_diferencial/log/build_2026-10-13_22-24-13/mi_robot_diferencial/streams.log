@@ -1,0 +1,58 @@
+[0.012s] Invoking command in '/home/dos/ros2_ws_diff/src/mi_robot_diferencial/build/mi_robot_diferencial': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/dos/ros2_ws_2602/install/turtle_move_pkg_DOS:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake /home/dos/ros2_ws_diff/src/mi_robot_diferencial -DCMAKE_INSTALL_PREFIX=/home/dos/ros2_ws_diff/src/mi_robot_diferencial/install/mi_robot_diferencial
+[0.148s] -- The C compiler identification is GNU 13.3.0
+[0.283s] -- The CXX compiler identification is GNU 13.3.0
+[0.319s] -- Detecting C compiler ABI info
+[0.470s] -- Detecting C compiler ABI info - done
+[0.480s] -- Check for working C compiler: /usr/bin/cc - skipped
+[0.482s] -- Detecting C compile features
+[0.482s] -- Detecting C compile features - done
+[0.496s] -- Detecting CXX compiler ABI info
+[0.618s] -- Detecting CXX compiler ABI info - done
+[0.646s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[0.646s] -- Detecting CXX compile features
+[0.648s] -- Detecting CXX compile features - done
+[0.661s] -- Found ament_cmake: 2.5.6 (/opt/ros/jazzy/share/ament_cmake/cmake)
+[0.849s] -- Found Python3: /usr/bin/python3 (found version "3.12.3") found components: Interpreter 
+[1.014s] -- Found ament_lint_auto: 0.17.5 (/opt/ros/jazzy/share/ament_lint_auto/cmake)
+[1.162s] -- Added test 'cppcheck' to perform static code analysis on C / C++ code
+[1.162s] -- Configured cppcheck include dirs: 
+[1.162s] -- Configured cppcheck exclude dirs and/or files: 
+[1.164s] -- Added test 'flake8' to check Python code syntax and style conventions
+[1.164s] -- Configured 'flake8' exclude dirs and/or files: 
+[1.166s] -- Added test 'lint_cmake' to check CMake code style
+[1.168s] -- Added test 'pep257' to check Python code against some of the docstring style conventions in PEP 257
+[1.174s] -- Added test 'uncrustify' to check C / C++ code style
+[1.175s] -- Configured uncrustify additional arguments: 
+[1.176s] -- Added test 'xmllint' to check XML markup files
+[1.178s] -- Configuring done (1.1s)
+[1.182s] -- Generating done (0.0s)
+[1.185s] -- Build files have been written to: /home/dos/ros2_ws_diff/src/mi_robot_diferencial/build/mi_robot_diferencial
+[1.192s] Invoked command in '/home/dos/ros2_ws_diff/src/mi_robot_diferencial/build/mi_robot_diferencial' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/dos/ros2_ws_2602/install/turtle_move_pkg_DOS:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake /home/dos/ros2_ws_diff/src/mi_robot_diferencial -DCMAKE_INSTALL_PREFIX=/home/dos/ros2_ws_diff/src/mi_robot_diferencial/install/mi_robot_diferencial
+[1.194s] Invoking command in '/home/dos/ros2_ws_diff/src/mi_robot_diferencial/build/mi_robot_diferencial': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/dos/ros2_ws_2602/install/turtle_move_pkg_DOS:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --build /home/dos/ros2_ws_diff/src/mi_robot_diferencial/build/mi_robot_diferencial -- -j16 -l16
+[1.258s] Invoked command in '/home/dos/ros2_ws_diff/src/mi_robot_diferencial/build/mi_robot_diferencial' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/dos/ros2_ws_2602/install/turtle_move_pkg_DOS:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --build /home/dos/ros2_ws_diff/src/mi_robot_diferencial/build/mi_robot_diferencial -- -j16 -l16
+[1.272s] Invoking command in '/home/dos/ros2_ws_diff/src/mi_robot_diferencial/build/mi_robot_diferencial': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/dos/ros2_ws_2602/install/turtle_move_pkg_DOS:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --install /home/dos/ros2_ws_diff/src/mi_robot_diferencial/build/mi_robot_diferencial
+[1.280s] -- Install configuration: ""
+[1.280s] -- Installing: /home/dos/ros2_ws_diff/src/mi_robot_diferencial/install/mi_robot_diferencial/share/mi_robot_diferencial/urdf
+[1.280s] -- Installing: /home/dos/ros2_ws_diff/src/mi_robot_diferencial/install/mi_robot_diferencial/share/mi_robot_diferencial/urdf/mi_robot.urdf.xacro
+[1.281s] -- Installing: /home/dos/ros2_ws_diff/src/mi_robot_diferencial/install/mi_robot_diferencial/share/mi_robot_diferencial/worlds
+[1.281s] -- Installing: /home/dos/ros2_ws_diff/src/mi_robot_diferencial/install/mi_robot_diferencial/share/mi_robot_diferencial/worlds/pista.sdf
+[1.281s] -- Installing: /home/dos/ros2_ws_diff/src/mi_robot_diferencial/install/mi_robot_diferencial/share/mi_robot_diferencial/config
+[1.281s] -- Installing: /home/dos/ros2_ws_diff/src/mi_robot_diferencial/install/mi_robot_diferencial/share/mi_robot_diferencial/config/bridge.yaml
+[1.282s] -- Installing: /home/dos/ros2_ws_diff/src/mi_robot_diferencial/install/mi_robot_diferencial/share/mi_robot_diferencial/launch
+[1.282s] -- Installing: /home/dos/ros2_ws_diff/src/mi_robot_diferencial/install/mi_robot_diferencial/share/mi_robot_diferencial/launch/mi_robot.launch.py
+[1.282s] -- Installing: /home/dos/ros2_ws_diff/src/mi_robot_diferencial/install/mi_robot_diferencial/share/ament_index/resource_index/package_run_dependencies/mi_robot_diferencial
+[1.282s] -- Installing: /home/dos/ros2_ws_diff/src/mi_robot_diferencial/install/mi_robot_diferencial/share/ament_index/resource_index/parent_prefix_path/mi_robot_diferencial
+[1.282s] -- Installing: /home/dos/ros2_ws_diff/src/mi_robot_diferencial/install/mi_robot_diferencial/share/mi_robot_diferencial/environment/ament_prefix_path.sh
+[1.282s] -- Installing: /home/dos/ros2_ws_diff/src/mi_robot_diferencial/install/mi_robot_diferencial/share/mi_robot_diferencial/environment/ament_prefix_path.dsv
+[1.283s] -- Installing: /home/dos/ros2_ws_diff/src/mi_robot_diferencial/install/mi_robot_diferencial/share/mi_robot_diferencial/environment/path.sh
+[1.283s] -- Installing: /home/dos/ros2_ws_diff/src/mi_robot_diferencial/install/mi_robot_diferencial/share/mi_robot_diferencial/environment/path.dsv
+[1.283s] -- Installing: /home/dos/ros2_ws_diff/src/mi_robot_diferencial/install/mi_robot_diferencial/share/mi_robot_diferencial/local_setup.bash
+[1.283s] -- Installing: /home/dos/ros2_ws_diff/src/mi_robot_diferencial/install/mi_robot_diferencial/share/mi_robot_diferencial/local_setup.sh
+[1.283s] -- Installing: /home/dos/ros2_ws_diff/src/mi_robot_diferencial/install/mi_robot_diferencial/share/mi_robot_diferencial/local_setup.zsh
+[1.283s] -- Installing: /home/dos/ros2_ws_diff/src/mi_robot_diferencial/install/mi_robot_diferencial/share/mi_robot_diferencial/local_setup.dsv
+[1.284s] -- Installing: /home/dos/ros2_ws_diff/src/mi_robot_diferencial/install/mi_robot_diferencial/share/mi_robot_diferencial/package.dsv
+[1.284s] -- Installing: /home/dos/ros2_ws_diff/src/mi_robot_diferencial/install/mi_robot_diferencial/share/ament_index/resource_index/packages/mi_robot_diferencial
+[1.284s] -- Installing: /home/dos/ros2_ws_diff/src/mi_robot_diferencial/install/mi_robot_diferencial/share/mi_robot_diferencial/cmake/mi_robot_diferencialConfig.cmake
+[1.284s] -- Installing: /home/dos/ros2_ws_diff/src/mi_robot_diferencial/install/mi_robot_diferencial/share/mi_robot_diferencial/cmake/mi_robot_diferencialConfig-version.cmake
+[1.284s] -- Installing: /home/dos/ros2_ws_diff/src/mi_robot_diferencial/install/mi_robot_diferencial/share/mi_robot_diferencial/package.xml
+[1.286s] Invoked command in '/home/dos/ros2_ws_diff/src/mi_robot_diferencial/build/mi_robot_diferencial' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/dos/ros2_ws_2602/install/turtle_move_pkg_DOS:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --install /home/dos/ros2_ws_diff/src/mi_robot_diferencial/build/mi_robot_diferencial

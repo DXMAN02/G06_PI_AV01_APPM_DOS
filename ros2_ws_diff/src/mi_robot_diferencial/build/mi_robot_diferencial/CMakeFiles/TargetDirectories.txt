@@ -1,0 +1,9 @@
+/home/dos/ros2_ws_diff/src/mi_robot_diferencial/build/mi_robot_diferencial/CMakeFiles/uninstall.dir
+/home/dos/ros2_ws_diff/src/mi_robot_diferencial/build/mi_robot_diferencial/CMakeFiles/mi_robot_diferencial_uninstall.dir
+/home/dos/ros2_ws_diff/src/mi_robot_diferencial/build/mi_robot_diferencial/CMakeFiles/test.dir
+/home/dos/ros2_ws_diff/src/mi_robot_diferencial/build/mi_robot_diferencial/CMakeFiles/edit_cache.dir
+/home/dos/ros2_ws_diff/src/mi_robot_diferencial/build/mi_robot_diferencial/CMakeFiles/rebuild_cache.dir
+/home/dos/ros2_ws_diff/src/mi_robot_diferencial/build/mi_robot_diferencial/CMakeFiles/list_install_components.dir
+/home/dos/ros2_ws_diff/src/mi_robot_diferencial/build/mi_robot_diferencial/CMakeFiles/install.dir
+/home/dos/ros2_ws_diff/src/mi_robot_diferencial/build/mi_robot_diferencial/CMakeFiles/install/local.dir
+/home/dos/ros2_ws_diff/src/mi_robot_diferencial/build/mi_robot_diferencial/CMakeFiles/install/strip.dir
